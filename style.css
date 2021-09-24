@@ -1,0 +1,38 @@
+body {
+    color: rgb(0, 0, 0);
+    background: #A5CDF5;
+} 
+h1 {
+    text-align: center;
+}   
+.mainlist{
+    list-style-type: none;
+    font-family: Georgia;
+    text-shadow: 1px 1px;
+    object-position: left;
+    display:inline-table;
+}
+a{
+    font-family: Verdana;
+    text-decoration: none;
+    color:#5C615B;
+    font-weight: bolder;
+
+}
+header{
+    background: #80E686;
+}
+footer{
+    background: #FABB9A;
+}
+.imgmain{
+        border-radius: 10px;
+        width: 130px;
+}
+.photo{
+    outline: 20px ridge rgba(0, 252, 105, 0.6);
+    margin-left: 10%;
+}
+.catimg{
+    border-radius: 10px;
+}
