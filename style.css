@@ -36,3 +36,29 @@ footer{
 .catimg{
     border-radius: 10px;
 }
+.register{
+    border: 3px dashed hsl(261, 100%, 78%);
+    background: #ffeea1;
+    padding-left: 4%;
+    padding-bottom: 2%;
+}
+.otzyv{
+    border: 3px dotted #ffeea1;
+    background: hsl(281, 100%, 86%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+}
+.description{
+    border: 5px double #619e61;
+    background: hsl(61, 24%, 49%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+    margin-top: 8%;
+}
+.sostav{
+    border: 5px ridge #707070;
+    background: hsl(212, 33%, 52%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+    margin-top: 8%;
+}
