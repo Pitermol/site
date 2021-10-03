@@ -1,0 +1,119 @@
+body {
+    color: rgb(0, 0, 0);
+    background: #A5CDF5;
+} 
+h1 {
+    text-align: center;
+}   
+.mainlist_block{
+    list-style-type: none;
+    font-family: Georgia;
+    text-shadow: 1px 1px;
+    background-color:hsl(291, 43%, 88%);
+    position:fixed;
+    right: 1%;
+    opacity: 0.85;
+}
+a{
+    font-family: Verdana;
+    text-decoration: none;
+    color:#5C615B;
+    font-weight: bolder;
+
+}
+header{
+    background: #80E686;
+}
+footer{
+    background: #FABB9A;
+    height: 200px;
+}
+.imgmain{
+        border-radius: 10px;
+        width: 130px;
+}
+.photo{
+    outline: 15px ridge rgba(0, 252, 105, 0.6);
+    margin-left: 1%;
+    height: 250px;
+    margin:30px 30px 0px 0px;
+    float:left;
+}
+.catimg{
+    border-radius: 10px;
+    float:left;
+}
+.register{
+    border: 3px dashed hsl(261, 100%, 78%);
+    background: #ffeea1;
+    padding-left: 4%;
+    padding-bottom: 2%;
+}
+.otzyv{
+    border: 3px dotted #ffeea1;
+    background: hsl(281, 100%, 86%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+}
+.description{
+    border: 5px double #619e61;
+    background: hsl(61, 24%, 49%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+    margin-top: 8%;
+}
+.sostav{
+    border: 5px ridge #707070;
+    background: hsl(212, 33%, 52%);
+    padding-left: 4%;
+    padding-bottom: 2%;
+    margin-top: 8%;
+}
+.header{
+    height: 130px;
+}
+.list_item{
+    display: inline-flex;
+    padding-right: 10px;
+}
+.mainlist{
+    padding-right: 10px;
+}
+.logo{
+    height: 350px;
+    margin-left: 5%;
+}
+.descr{
+    padding-left: 10px;
+}
+.btn_buy{
+    margin-top: 10px;
+    margin-left: 20px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: lightcoral;
+    font-size: 30px;
+    border-radius: 30%;
+    width: 130px;
+    border: 2px solid #4CAF50;
+}
+.btn_buy:hover{
+    margin-top: 13px;
+    margin-left: 20px;
+    box-shadow: 0 12px 16px 0 rgba(235, 95, 95, 0.24), 0 17px 50px 0 rgba(241, 175, 238, 0.19);
+    background-color: #baf5bc;
+    color: rgb(40, 26, 231);
+    font-size: 30px;
+    border-radius: 30%;
+    width: 130px;
+    border: 2px solid #4CAF50;
+}
+.cat_item{
+    border: 4px dashed #eaf09a;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px
+}
+.cat_list_tiem{
+    display: inline-flex;
+    padding-right: 10px;
+}
